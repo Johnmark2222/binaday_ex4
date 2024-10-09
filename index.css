@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: palevioletred;
+}
+button{
+    color: black;
+    font-size: 40px;
+}
+body{
+    text-align: center;
+    font-size: 45px;
+    background-color: whitesmoke;
+}
+input{
+    font-size: 40px;
+}
